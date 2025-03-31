@@ -1,3 +1,9 @@
+***Log in with admin@nextmail.com - admin
+
+vercel - neon db ->  https://console.neon.tech/app/projects/fancy-rice-63826378/branches/br-nameless-water-aboeo2gb/tables?database=neondb
+test_products
+
+
 <div align="center"><strong>Next.js 15 Admin Dashboard Template</strong></div>
 <div align="center">Built with the Next.js App Router</div>
 <br />
